@@ -3,9 +3,9 @@
 Projects done as part of the Couresra IBM Data Science Professional Certification
 
 **Projects**
--
--
--
+- Dashboard from US Economic Data
+- Housing Project Of King County, US
+- Predicting the Loan
  
 **Capstone Project**
 - Segmentation and Clustering
